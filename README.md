@@ -261,6 +261,7 @@ Using discount ≥10% and profit <₹100K as analytical thresholds, Face Wash an
 ## 📊 Interactive Dashboard
 
 The project includes an interactive Excel dashboard designed to provide a consolidated view of business performance.
+![Retail Sales & Business Performance Dashboard](Dashboard.png)
 
 ### KPI Cards
 
